@@ -1,0 +1,37 @@
+Ancho 11
+Color de fondo Blanco
+
+Avanzar 3 Repetir 5 veces { Pintar Negro Avanzar }
+Derecha Avanzar Pintar Negro
+Derecha Avanzar Repetir 2 veces { Pintar RGB(240,170,30) Avanzar }
+Repetir 3 veces { Pintar RGB(245,200,50) Avanzar }
+Pintar Negro Avanzar Izquierda Avanzar Pintar Negro Izquierda
+Avanzar Repetir 2 veces { Pintar RGB(245,200,50) Avanzar }
+Repetir 5 veces { Pintar RGB(240,170,30) Avanzar } Pintar Negro
+Avanzar Derecha Avanzar Pintar Negro Derecha Avanzar
+Pintar RGB(240,160,50) Avanzar
+Repetir 5 veces { Pintar RGB(240,170,30) Avanzar }
+Avanzar Repetir 2 veces { Pintar RGB(245,200,50) Avanzar } Pintar Negro
+Izquierda Avanzar Pintar Negro Izquierda Avanzar
+Pintar RGB(245,200,50) Avanzar 2 Pintar RGB(240,170,30)
+Repetir 2 veces { Avanzar Pintar Rojo Avanzar Pintar RGB(240,170,30) }
+Avanzar Pintar RGB(240,170,30) Avanzar Pintar RGB(240,160,50)
+Avanzar Pintar Negro Derecha Avanzar Pintar Negro Derecha
+Avanzar Pintar RGB(240,160,50) Avanzar
+Repetir 6 veces { Pintar RGB(240,170,30) Avanzar }
+Avanzar Pintar RGB(245,200,50) Avanzar Pintar Negro
+Izquierda Avanzar Pintar Negro Izquierda Avanzar
+Pintar RGB(245,200,50) Repetir 2 veces { Avanzar Pintar RGB(240,170,30) }
+Repetir 2 veces { Avanzar Pintar Rojo Avanzar Pintar RGB(240,170,30) }
+Avanzar Pintar RGB(240,170,30) Avanzar Pintar RGB(240,160,50) Avanzar
+Pintar Negro Derecha Avanzar Pintar Negro Derecha Avanzar
+Pintar RGB(240,160,50) Avanzar
+Repetir 7 veces { Pintar RGB(240,170,30) Avanzar }
+Pintar RGB(245,200,50) Avanzar Pintar Negro Izquierda Avanzar Izquierda
+Avanzar Pintar Negro Avanzar
+Repetir 5 veces { Pintar RGB(240,170,30) Avanzar }
+Repetir 2 veces { Pintar RGB(240,160,50) Avanzar } Pintar Negro
+Derecha Avanzar Derecha Avanzar Pintar Negro Avanzar
+Repetir 5 veces { Pintar RGB(240,160,50) Avanzar }
+Pintar Negro Izquierda Avanzar Izquierda Avanzar
+Repetir 5 veces { Pintar Negro Avanzar }
